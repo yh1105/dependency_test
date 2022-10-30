@@ -1,0 +1,13 @@
+# Target labels
+ gtest
+# Source files and their labels
+/home/heyibo/c_project/gtest-cmake-example-master/test/CMakeFiles/gtest
+/home/heyibo/c_project/gtest-cmake-example-master/test/CMakeFiles/gtest.rule
+/home/heyibo/c_project/gtest-cmake-example-master/test/CMakeFiles/gtest-complete.rule
+/home/heyibo/c_project/gtest-cmake-example-master/test/gtest/src/gtest-stamp/gtest-install.rule
+/home/heyibo/c_project/gtest-cmake-example-master/test/gtest/src/gtest-stamp/gtest-mkdir.rule
+/home/heyibo/c_project/gtest-cmake-example-master/test/gtest/src/gtest-stamp/gtest-download.rule
+/home/heyibo/c_project/gtest-cmake-example-master/test/gtest/src/gtest-stamp/gtest-update.rule
+/home/heyibo/c_project/gtest-cmake-example-master/test/gtest/src/gtest-stamp/gtest-patch.rule
+/home/heyibo/c_project/gtest-cmake-example-master/test/gtest/src/gtest-stamp/gtest-configure.rule
+/home/heyibo/c_project/gtest-cmake-example-master/test/gtest/src/gtest-stamp/gtest-build.rule

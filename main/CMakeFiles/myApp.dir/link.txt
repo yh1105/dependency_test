@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/myApp.dir/main.cpp.o  -o myApp  ../libfoo/liblibfoo.a ../libbar/liblibbar.a ../libfoo/liblibfoo.a 

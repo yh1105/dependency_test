@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/heyibo/c_project/gtest-cmake-example-master/main",
+  "command": "/usr/bin/c++   -I/home/heyibo/c_project/gtest-cmake-example-master/libfoo -I/home/heyibo/c_project/gtest-cmake-example-master/libbar    -o CMakeFiles/myApp.dir/main.cpp.o -c /home/heyibo/c_project/gtest-cmake-example-master/main/main.cpp",
+  "file": "/home/heyibo/c_project/gtest-cmake-example-master/main/main.cpp"
+},
+{
+  "directory": "/home/heyibo/c_project/gtest-cmake-example-master/test/testfoo",
+  "command": "/usr/bin/c++   -I/home/heyibo/c_project/gtest-cmake-example-master/test/gtest/src/gtest/googletest/include -I/home/heyibo/c_project/gtest-cmake-example-master/test/gtest/src/gtest/googlemock/include -I/home/heyibo/c_project/gtest-cmake-example-master/libfoo    -o CMakeFiles/testfoo.dir/main.cpp.o -c /home/heyibo/c_project/gtest-cmake-example-master/test/testfoo/main.cpp",
+  "file": "/home/heyibo/c_project/gtest-cmake-example-master/test/testfoo/main.cpp"
+},
+{
+  "directory": "/home/heyibo/c_project/gtest-cmake-example-master/test/testfoo",
+  "command": "/usr/bin/c++   -I/home/heyibo/c_project/gtest-cmake-example-master/test/gtest/src/gtest/googletest/include -I/home/heyibo/c_project/gtest-cmake-example-master/test/gtest/src/gtest/googlemock/include -I/home/heyibo/c_project/gtest-cmake-example-master/libfoo    -o CMakeFiles/testfoo.dir/testfoo.cpp.o -c /home/heyibo/c_project/gtest-cmake-example-master/test/testfoo/testfoo.cpp",
+  "file": "/home/heyibo/c_project/gtest-cmake-example-master/test/testfoo/testfoo.cpp"
+},
+{
+  "directory": "/home/heyibo/c_project/gtest-cmake-example-master/libfoo",
+  "command": "/usr/bin/c++   -I/home/heyibo/c_project/gtest-cmake-example-master/libfoo    -o CMakeFiles/libfoo.dir/foo.cpp.o -c /home/heyibo/c_project/gtest-cmake-example-master/libfoo/foo.cpp",
+  "file": "/home/heyibo/c_project/gtest-cmake-example-master/libfoo/foo.cpp"
+},
+{
+  "directory": "/home/heyibo/c_project/gtest-cmake-example-master/libbar",
+  "command": "/usr/bin/c++   -I/home/heyibo/c_project/gtest-cmake-example-master/libbar -I/home/heyibo/c_project/gtest-cmake-example-master/libfoo    -o CMakeFiles/libbar.dir/bar.cpp.o -c /home/heyibo/c_project/gtest-cmake-example-master/libbar/bar.cpp",
+  "file": "/home/heyibo/c_project/gtest-cmake-example-master/libbar/bar.cpp"
+}
+]
